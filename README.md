@@ -157,6 +157,12 @@ lm-box-5/
 - Font: Press Start 2P, Joystix Monospace
 - Sound effects: Creative Commons licensed
 
+### Contact
+
+For questions or support, you can reach out to the project maintainers:
+- Abdelrhman Saeed: [abdosaaed749@gmail.com](mailto:abdosaaed749@gmail.com)
+- Mohamed Yousef: [Mohamed.y.abdelnasser@gmail.com](mailto:Mohamed.y.abdelnasser@gmail.com) | [GitLab Profile](https://gitlab.com/Momad-Y)
+
 ## Screenshots
 
 Here are some screenshots showcasing the different games and features of LM Box 5:
