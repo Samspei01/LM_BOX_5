@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./gui/resources/images/5-lmbox-icon.png" alt="LM Box 5 Logo" width="200"/>
+</div>
+
 # LM Box 5
 
 ## Classic Games Powered by Computer Vision
